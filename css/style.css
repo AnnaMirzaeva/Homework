@@ -2,6 +2,10 @@
     box-sizing: border-box;
 }
 
+.table-description:hover {
+    background-color: #d6d6d6;
+}
+
 .wrapper {
   min-height: 100vh;
   display: flex;
